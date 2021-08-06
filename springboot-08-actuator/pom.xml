@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.atguigu</groupId>
-	<artifactId>springboot-05-security</artifactId>
+	<artifactId>springboot-08-actuator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-05-security</name>
+	<name>springboot-08-actuator</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
@@ -19,7 +19,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -28,26 +28,21 @@
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
 
+		<!--自定义健康监控指标监控redis-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
+			<artifactId>spring-boot-starter-data-redis</artifactId>
 		</dependency>
-
-<!--		<dependency>-->
-<!--			<groupId>org.thymeleaf.extras</groupId>-->
-<!--			<artifactId>thymeleaf-extras-springsecurity5</artifactId>-->
-<!--		</dependency>-->
-		<!-- https://mvnrepository.com/artifact/org.thymeleaf.extras/thymeleaf-extras-springsecurity4 -->
-		<dependency>
-			<groupId>org.thymeleaf.extras</groupId>
-			<artifactId>thymeleaf-extras-springsecurity4</artifactId>
-			<version>3.0.2.RELEASE</version>
-		</dependency>
-
 
 	</dependencies>
 

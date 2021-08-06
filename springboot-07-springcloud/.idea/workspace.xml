@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15adc6a4-2ad6-4068-8dd0-ab1e985f9585" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/java/com/atguigu/security/config/MySecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/java/com/atguigu/security/controller/KungfuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level1/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level1/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level1/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level2/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level2/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level2/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level3/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level3/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/level3/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/resources/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-06-dubbo/consumer-user/src/main/java/com/atguigu/ticket/service/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-06-dubbo/consumer-user/src/main/java/com/atguigu/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-06-dubbo/provider-ticket/src/main/java/com/atguigu/ticket/service/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-06-dubbo/provider-ticket/src/main/java/com/atguigu/ticket/service/TicketServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-user/src/main/java/com/atguigu/consumeruser/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-user/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-ticket/src/main/java/com/atguigu/providerticket/controller/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-ticket/src/main/java/com/atguigu/providerticket/service/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-ticket/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-05-security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-05-security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-05-security/src/main/java/com/atguigu/security/Springboot05SecurityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-05-security/src/main/java/com/atguigu/security/Springboot05SecurityApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Goldstine_workspace\JavaDevelopment\IDEA\IDEA_development_tool\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wLjera6jh65l3Lzt6yv70FE1PP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.21172023" />
+    <property name="project.structure.side.proportion" value="0.30147782" />
+  </component>
+  <component name="RunManager" selected="Application.ConsumerUserApplication">
+    <configuration name="ConsumerUserApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.consumeruser.ConsumerUserApplication" />
+      <module name="consumer-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.consumeruser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.eurekaserver.EurekaServerApplication" />
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTicketApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.providerticket.ProviderTicketApplication" />
+      <module name="provider-ticket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.providerticket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerUserApplication" />
+        <item itemvalue="Application.ProviderTicketApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15adc6a4-2ad6-4068-8dd0-ab1e985f9585" name="Default Changelist" comment="" />
+      <created>1628244866831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628244866831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1316" y="240" key="#Project_Structure" timestamp="1628246207294">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1316" y="240" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1628246207294" />
+    <state width="1254" height="210" key="GridCell.Tab.0.bottom" timestamp="1628257526664">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="210" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1628257526664" />
+    <state width="1254" height="210" key="GridCell.Tab.0.center" timestamp="1628257526664">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="210" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1628257526664" />
+    <state width="1254" height="210" key="GridCell.Tab.0.left" timestamp="1628257526664">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="210" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1628257526664" />
+    <state width="1254" height="210" key="GridCell.Tab.0.right" timestamp="1628257526664">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1254" height="210" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1628257526664" />
+    <state x="982" y="279" key="new project wizard" timestamp="1628257479607">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="982" y="279" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1628257479607" />
+    <state x="1550" y="339" width="672" height="678" key="search.everywhere.popup" timestamp="1628246587006">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1550" y="339" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1628246587006" />
+  </component>
+</project>

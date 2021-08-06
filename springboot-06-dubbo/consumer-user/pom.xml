@@ -9,18 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.atguigu</groupId>
-	<artifactId>springboot-05-security</artifactId>
+	<artifactId>consumer-user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-05-security</name>
+	<name>consumer-user</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
@@ -32,22 +28,20 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!--dubbo  dubbo交给了apache，可以在apache官网上找到，对应的项目在github上有-->
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
+			<groupId>com.alibaba.boot</groupId>
+			<artifactId>dubbo-spring-boot-starter</artifactId>
+			<version>0.1.0</version>
 		</dependency>
-
-<!--		<dependency>-->
-<!--			<groupId>org.thymeleaf.extras</groupId>-->
-<!--			<artifactId>thymeleaf-extras-springsecurity5</artifactId>-->
-<!--		</dependency>-->
-		<!-- https://mvnrepository.com/artifact/org.thymeleaf.extras/thymeleaf-extras-springsecurity4 -->
+		<!--引入zookeeper作为注册中心-->
+		<!--引入zkclient作为zookeeper的客户端工具，直接在mvnrepository.com查找即可-->
+		<!-- https://mvnrepository.com/artifact/com.github.sgroschupf/zkclient -->
 		<dependency>
-			<groupId>org.thymeleaf.extras</groupId>
-			<artifactId>thymeleaf-extras-springsecurity4</artifactId>
-			<version>3.0.2.RELEASE</version>
+			<groupId>com.github.sgroschupf</groupId>
+			<artifactId>zkclient</artifactId>
+			<version>0.1</version>
 		</dependency>
-
 
 	</dependencies>
 
